@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Anthony N. Grado</h1>
-<h3 align="center">A passionate Web Developer from the Bicol, Albay Philippines.</h3>
+<h3 align="center">A passionate Web Developer from Bicol, Albay in the Philippines.</h3>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on my **Portfolio**
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
