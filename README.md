@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **other Web Developers**
 
