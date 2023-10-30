@@ -13,12 +13,6 @@
 
 - ⚡ Fun fact **I think I cannot start a day without a meme**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lsnthnygrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lsnthnygrd" height="30" width="40" /></a>
-<a href="https://fb.com/luisanthony.grado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luisanthony.grado" height="30" width="40" /></a>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=hydro404)
 
 <h3 align="left">Languages and Tools:</h3>
