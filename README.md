@@ -12,6 +12,7 @@
 - 📫 How to reach me **luisanthonygrado@gmail.com**
 
 - ⚡ Fun fact **I think I cannot start a day without a meme**
+<br>
 
 ![](https://komarev.com/ghpvc/?username=hydro404)
 
