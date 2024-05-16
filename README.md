@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Luis Anthony N. Grado</h1>
-<h3 align="center">A passionate Web Developer from Bicol, Albay in the Philippines.</h3>
+<h1 align="center">Hi 👋, I'm hydro</h1>
+<h3 align="center">A passionate Web Developer from the Philippines.</h3>
 
-- 🔭 I’m currently working on my **Portfolio**
+- 🔭 I’m currently working on my **Side Projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **other Web Developers**
 
 - 🤝 I’m looking for help with **friendly Tech people**
-
-- 📫 How to reach me **luisanthonygrado@gmail.com**
 
 - ⚡ Fun fact **I think I cannot start a day without a meme**
 <br>
